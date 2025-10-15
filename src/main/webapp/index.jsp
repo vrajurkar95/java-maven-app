@@ -67,15 +67,10 @@
     <h2>This is our first pipeline song release 🚀</h2>
 
     <a href="https://www.youtube.com/watch?v=JYRtKF4wknQ" target="_blank">
-        ▶️ Watch "Poison Baby" on YouTube
+        Watch "Poison Baby" on YouTube
     </a>
 
-    <div class="links">
-        <h3>🌐 Website: <a href="https://www.cloudaseem.com" target="_blank">cloudaseem.com</a></h3>
-        <h3>💼 LinkedIn: <a href="https://www.linkedin.com/in/mohammed-aseem-akram" target="_blank">Mohammed Aseem Akram</a></h3>
-        <h4>📢 Subscribe & Share the Channel ❤️</h4>
-        <h5>💻 GitHub: <a href="https://github.com/Aseemakram19" target="_blank">Aseemakram19</a></h5>
-    </div>
+    
 
     <footer>© 2025 CloudAseem Media | Designed with ❤️ by DevOps Pipeline</footer>
 
